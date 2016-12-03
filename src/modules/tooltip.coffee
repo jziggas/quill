@@ -65,7 +65,7 @@ class Tooltip
     [left, top] = this.position(reference)
     @container.style.left = "#{left}px"
     @container.style.top = "#{top}px"
-    @container.focus()
+    @quill.focus()
 
 
 Quill.registerModule('tooltip', Tooltip)
