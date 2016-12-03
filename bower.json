@@ -20,5 +20,9 @@
     "Gruntfile.coffee",
     "index.js",
     "package.json"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jziggas/quill.git"
+  }
 }
