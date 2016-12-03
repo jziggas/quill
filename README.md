@@ -1,3 +1,10 @@
+The v0.20.x branch of Quill is no longer maintained by the Quill team. This is a fork of that branch with some bug fixes added.
+
+For this fork, the `master` branch is will be the most current branch. `develop` has been moved to `develop-1.x` and the original `master` to `master-1.x`.
+
+The `/dist` folder has been added so that you can install via bower without needed to build from source.
+------------------------------------------------
+
 # [Quill Rich Text Editor](http://quilljs.com/) [![Build Status](https://travis-ci.org/quilljs/quill.svg?branch=master)](http://travis-ci.org/quilljs/quill)
 
 [![Webdriver Test Status](https://saucelabs.com/browser-matrix/quill-master.svg)](https://saucelabs.com/u/quill)
