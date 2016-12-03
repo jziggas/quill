@@ -6,7 +6,8 @@
   "homepage": "http://quilljs.com",
   "contributors": [
     "Byron Milligan <byronner@gmail.com>",
-    "Keegan Poppen <keegan.poppen@gmail.com>"
+    "Keegan Poppen <keegan.poppen@gmail.com>",
+    "Joshua Ziggas <zoshjiggas@gmail.com>"
   ],
   "main": "index.js",
   "devDependencies": {
@@ -65,10 +66,10 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/quilljs/quill"
+    "url": "https://github.com/jziggas/quill"
   },
   "bugs": {
-    "url": "https://github.com/quilljs/quill/issues"
+    "url": "https://github.com/jziggas/quill/issues"
   },
   "scripts": {
     "prepublish": "grunt dist",
